@@ -5,8 +5,13 @@ import Landing from "./components/layout/Landing";
 import {BrowserRouter, Route, Routes, Switch} from "react-router-dom";
 import Register from "./components/auth/Register";
 import Login from "./components/auth/Login";
+//Redux
+import {Provider} from "react-redux";
+import store from "./redux/store";
+
 function App() {
   return (
+      <Provider store={store}>
       <BrowserRouter>
           <Navbar/>
           <Routes>
@@ -19,7 +24,7 @@ function App() {
           </Fragment>
           </Routes>
       </BrowserRouter>
-
+      </Provider>
   );
 }
 
