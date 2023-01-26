@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/1.%20Introduction/1.%20Welcome%20To%20The%20Course.mp4</location>
+			<duration>209166</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/1.%20Introduction/2.%20A%20Look%20At%20The%20Course%20Project.mp4</location>
+			<duration>322781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/1.%20Introduction/3.%20Environment%20%26%20Setup.mp4</location>
+			<duration>393718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/2.%20Express%20%26%20MongoDB%20Setup/1.%20MongoDB%20Atlas%20Setup.mp4</location>
+			<duration>374562</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/2.%20Express%20%26%20MongoDB%20Setup/2.%20Install%20Dependencies%20%26%20Basic%20Express%20Setup.mp4</location>
+			<duration>487620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/2.%20Express%20%26%20MongoDB%20Setup/3.%20Connecting%20To%20MongoDB%20With%20Mongoose.mp4</location>
+			<duration>425715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/2.%20Express%20%26%20MongoDB%20Setup/4.%20Route%20Files%20With%20Express%20Router.mp4</location>
+			<duration>475522</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/1.%20Creating%20The%20User%20Model.mp4</location>
+			<duration>262502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/2.%20Request%20%26%20Body%20Validation.mp4</location>
+			<duration>590716</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/3.%20User%20Registration.mp4</location>
+			<duration>853218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/4.%20Implementing%20JWT.mp4</location>
+			<duration>603348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/5.%20Custom%20Auth%20Middleware%20%26%20JWT%20Verify.mp4</location>
+			<duration>751770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/3.%20User%20API%20Routes%20%26%20JWT%20Authentication/6.%20User%20Authentication%20%20Login%20Route.mp4</location>
+			<duration>579129</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/1.%20Creating%20The%20Profile%20Model.mp4</location>
+			<duration>319716</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/2.%20Get%20Current%20User%20Profile.mp4</location>
+			<duration>405792</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/3.%20Create%20%26%20Update%20Profile%20Routes.mp4</location>
+			<duration>1283182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/4.%20Get%20All%20Profiles%20%26%20Profile%20By%20User%20ID.mp4</location>
+			<duration>723116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/5.%20Delete%20Profile%20%26%20User.mp4</location>
+			<duration>379600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/6.%20Add%20Profile%20Experience.mp4</location>
+			<duration>704564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/7.%20Delete%20Profile%20Experience.mp4</location>
+			<duration>409461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/7.1%20devconnector_S4.zip</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/8.%20Add%20%26%20Delete%20Profile%20Education.mp4</location>
+			<duration>438834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/4.%20Profile%20API%20Routes/9.%20Get%20Github%20Repos%20For%20Profile.mp4</location>
+			<duration>545832</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+	</extension>
+</playlist>

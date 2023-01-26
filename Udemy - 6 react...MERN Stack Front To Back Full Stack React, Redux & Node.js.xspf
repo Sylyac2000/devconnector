@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/3.%20React%20%26%20Concurrently%20Setup.mp4</location>
+			<duration>342657</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.%20A%20Look%20At%20The%20The%20UI%20%20Theme.mp4</location>
+			<duration>371752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/css/style.css</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/add-education.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/add-experience.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/create-profile.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/dashboard.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/index.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/login.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/post.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/posts.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/profile.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/profiles.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/1.1%20devconnector_html_theme.zip#!/devconnector_html_theme/register.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/2.%20Link%20To%20Theme%20Building%20Series%20On%20YouTube.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/3.%20React%20%26%20Concurrently%20Setup.mp4</location>
+			<duration>342657</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/4.%20Clean%20Up%20%26%20Initial%20Components.mp4</location>
+			<duration>388052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/5.%20React%20Router%20Setup.mp4</location>
+			<duration>375560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/6.%20Register%20Form%20%26%20useState%20Hook.mp4</location>
+			<duration>540561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/FORMATIONS/JAVASCRIPT/REACT/%5BFreeAllCourse.Com%5D%20Udemy%20-%20MERN%20Stack%20Front%20To%20Back%20Full%20Stack%20React%2C%20Redux%20%26%20Node.js/6.%20Getting%20Started%20With%20React%20%26%20The%20Frontend/7.%20Request%20Example%20%26%20Login%20Form.mp4</location>
+			<duration>517225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+	</extension>
+</playlist>
